@@ -6,7 +6,7 @@ title: Index
 <ul>
   {% for doc in doclist %}
     {% if doc.name contains '.md' or doc.name contains '.html' %}
-    <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title | default: doc.url }}</a></li>
+    <li><a class="index-link" href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title | default: doc.url }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
