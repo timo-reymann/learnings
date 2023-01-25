@@ -1,3 +1,6 @@
+---
+title: Index
+---
 {% assign doclist = site.pages | sort: 'url'  %}
 <h2>Contents</h2>
 <ul>
