@@ -1,3 +1,6 @@
+---
+title: Conferences/2021/InteliJ IDEA Conf
+---
 IntelliJ IDEA Conf (25. - 26.02.2021)
 ===
 

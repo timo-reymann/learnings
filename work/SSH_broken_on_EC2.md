@@ -1,3 +1,6 @@
+---
+title: Work/AWS/SSH broken on EC2
+---
 SSH broken on EC2
 ===
 
