@@ -1,6 +1,8 @@
 IT-Tage 2021
 ===
 
+> [IT Tage](https://www.ittage.informatik-aktuell.de/) is a conference for software development, architecture, AI, databases, DevOps and agile for the german speaking IT world
+
 ## GitOps mit GitLab: DevSecOps, Source Code Handling und CI/CD
 
 
