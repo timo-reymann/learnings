@@ -42,7 +42,7 @@ framework already e.g. query for Spring JDBC
 ## Security
 
 - [ref](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.native.ref/)
-  can be used to transform security DSL into a more kotlinish DSL (also
+  can also be used to transform security DSL into a more kotlinish DSL (also
   works in beans block, could also be just return value for `@Bean`
   annotated method)
   ```kotlin
@@ -54,4 +54,5 @@ framework already e.g. query for Spring JDBC
   }
   http.build()
   ```
-
+  
+  > ref generally also works outside of spring and is a kotlin builtin feature
