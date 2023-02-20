@@ -4,6 +4,8 @@ title: Webinars/2023/CircleCI Config Policies and recent security features in Ci
 CircleCI Config Policies and recent security features in CircleCI
 ===
 
+You can also find the recording on thei [YouTube channel](https://www.youtube.com/watch?v=1NTeukU_RKs).
+
 ## Config Policies
 
 - also has human readable error messages
