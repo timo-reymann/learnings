@@ -1,5 +1,5 @@
 ---
-title: Make dotnet-sonar-scanner evaluate non .NET files
+title: Work/.NET/Make dotnet-sonar-scanner evaluate non .NET files
 ---
  Make dotnet-sonar-scanner evaluate non .NET files
 ===
