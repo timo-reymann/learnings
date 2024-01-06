@@ -1,5 +1,5 @@
 ---
-title: Taking screenshots from Chrome using board utils
+title: Web-Dev/Taking screenshots from Chrome using board utils
 ---
 Taking screenshots from Chrome using board utils
 ===
