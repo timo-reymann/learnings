@@ -1,5 +1,5 @@
 ---
-title: Hide annoying terminal window for .NET Core GUI Apps
+title: .NET/Hide annoying terminal window for .NET Core GUI Apps
 ---
 
 Hide annoying terminal window for .NET Core GUI Apps

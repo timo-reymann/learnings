@@ -1,5 +1,5 @@
 ---
-title: Self contained dotnet binary with all native libs
+title: .NET/Self contained dotnet binary with all native libs
 ---
 
 Self contained dotnet binary with all native libs
