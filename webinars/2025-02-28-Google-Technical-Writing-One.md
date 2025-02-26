@@ -49,12 +49,12 @@ My notes combine both parts into key areas.
 
 ## Reduce extending sentences
 
-- One sentence should always only represent only one idea
+- One sentence should always only represent one idea
 
 ## That / Which
 
 - that = no break, unnecessary
-- wich = break, necessary
+- which = break, necessary
 
 ## Lists / Tables
 
