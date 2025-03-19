@@ -27,8 +27,12 @@ My notes combine both parts into key areas.
 ## Outline for documents
 
 - Always start with an outline in large documents
+
+
 - Get feedback on the outline from crew before starting to write the document
-    - ensure it covers the needs of the audience
+    - Ensure it covers the needs of the audience
+
+
 - Verify the written document against the outline after finishing the document
     - Ensures that the document is not missing any key points
     - Ensures that the document is not going off track
@@ -36,6 +40,8 @@ My notes combine both parts into key areas.
 ## Introduction for documents
 
 - Always start with an introduction
+
+
 - Should answer the following questions:
     - What is the document about?
     - What does it cover?
@@ -68,8 +74,8 @@ My notes combine both parts into key areas.
 
 ## Sample code
 
-- should be complete and working
-- comments should only be added for non-obvious parts
+- Should be complete and working
+- Comments should only be added for non-obvious parts
 
 ## Creating good drafts
 
@@ -77,14 +83,14 @@ My notes combine both parts into key areas.
 
 
 - Create headings for the document first, before filling in the content
-  - ensures that the document is structured
-  - ensures that the document is not missing any key points
+  - Ensures that the document is structured
+  - Ensures that the document is not missing any key points
 
 
 - Work on drafts in the following cycle:
     - **Reorganize**: Move headings and sections around
     - **Revise**: Check for consistency and completeness
     - **Remember**: Check for negative spaces
-        - avoid unnecessary repetition and jargon that is not needed
-        - avoid over-explaning simple concepts
-        - avoid explaining implicit information that examples could cover
+        - Avoid unnecessary repetition and jargon that is not needed
+        - Avoid over-explaning simple concepts
+        - Avoid explaining implicit information that examples could cover
