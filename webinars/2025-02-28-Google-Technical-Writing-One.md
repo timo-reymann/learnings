@@ -44,12 +44,12 @@ My notes combine both parts into key areas.
 
 ## Replace extra words
 
-- Less words are usually more precise
-- Rephrase is `able to` to `can` where possible
+- Less words are usually more precise.
+- Rephrase is `able to` to `can` where possible.
 
 ## Reduce extending sentences
 
-- One sentence should always only represent one idea
+- One sentence should always only represent one idea.
 
 ## That / Which
 
@@ -87,8 +87,8 @@ My notes combine both parts into key areas.
 ## Commas
 
 - Use oxford comma for embedded lists.
-- Use semicolons to group highly related thoughts
-- Use em dash for rich pauses
+- Use semicolons to group highly related thoughts.
+- Use em dash for rich pauses.
 
 ## Talks / Presentations
 
