@@ -7,7 +7,7 @@ KubeCon & Coud Native Con Europe 2025
 KubeCon + CloudNativeCon Europe 2025 took place in London. I had an all access pass which also included access to the
 co-located conferences at day 0.
 
-All talks will be available on the [CNCF YouTube channel](https://www.youtube.com/@CloudNativeComputingFoundation). So I
+All talks will be available on the CNCF YouTube channel. So I
 will not go into detail about the talks. I will just mention my aggregated learnings by topic
 
 ## Backstage
